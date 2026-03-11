@@ -413,6 +413,6 @@ daily_routine.txt
 
 Project created as part of a **Prompt Engineering intensive**.
 
-Author: **[Your Name]**
+Author: **Eduard Bardackiy**
 
 
