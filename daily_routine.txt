@@ -1,0 +1,40 @@
+USER DAILY ROUTINE
+
+MONDAY
+blocked 06:30-08:30 morning routine (wake up, breakfast, meditation)
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
+flexible 17:00-19:00 gym
+
+TUESDAY
+blocked 06:30-08:30 morning routine (wake up, breakfast, meditation)
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
+
+WEDNESDAY
+blocked 06:30-08:30 morning routine (wake up, breakfast, meditation)
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
+flexible 17:00-19:00 gym
+
+THURSDAY
+blocked 06:30-08:30 morning routine
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
+
+FRIDAY
+blocked 06:30-08:30 morning routine
+blocked 12:00-12:30 lunch
+blocked 17:00-18:00 SmartPL internship call
+blocked 22:00-00:00 sleep
+flexible 18:00-19:50 gym
+
+SATURDAY
+blocked 08:30-09:30 morning routine
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
+
+SUNDAY
+blocked 08:30-09:30 morning routine
+blocked 12:00-12:30 lunch
+blocked 22:00-00:00 sleep
